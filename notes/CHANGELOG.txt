@@ -1,0 +1,2 @@
+/* rev-b7e4a1-20260926 */
+v6.8.0: hdr inject, addon api, dx12 / vulkan
